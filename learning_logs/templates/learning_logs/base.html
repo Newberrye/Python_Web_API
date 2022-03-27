@@ -6,6 +6,12 @@
     <a href="{% url 'learning_logs:topics' %}">
         Topics
     </a>
+    &nbsp;|&nbsp;
+    {% if user.is_authenticated %}
+        Hello, {{ user.username }}.
+    {% else %}
+        <a href="{% url 'users:login' %}">Log in</a>
+    {% endif %}
 </p>
 
 {% block content %}{% endblock content %}

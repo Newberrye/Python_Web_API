@@ -1,4 +1,3 @@
-from importlib.abc import ExecutionLoader
 from django.shortcuts import render, redirect
 
 from .models import Topic, Entry
