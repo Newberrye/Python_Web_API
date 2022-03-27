@@ -8,6 +8,7 @@ This is my repository containing the Python Web API project I did from <em>Pytho
 * Learned how to create a superuser and create initial data.
 * Creating URLs, defining view functions, and writing templates for web information.
 * Creating a base template for other templates to inherit.
+* Creation of topic creation, entry creation, and entry editing.
 
 ## Todo
 * User Accounts
