@@ -9,6 +9,9 @@ This is my repository containing the Python Web API project I did from <em>Pytho
 * Creating URLs, defining view functions, and writing templates for web information.
 * Creating a base template for other templates to inherit.
 * Creation of topic creation, entry creation, and entry editing.
+* Adding Users and ownership of topics.
+* Restricted site useability to logged in users.
+* Added security checking for users trying to view/edit topic and entries they do not own.
 
 ## Todo
-* User Accounts
+* Styling website.
