@@ -127,6 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Ignores settings that contains SSH code
-settings.py
