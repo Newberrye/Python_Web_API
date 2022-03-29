@@ -12,6 +12,9 @@ This is my repository containing the Python Web API project I did from <em>Pytho
 * Adding Users and ownership of topics.
 * Restricted site useability to logged in users.
 * Added security checking for users trying to view/edit topic and entries they do not own.
+* Installed Bootstrap to virtual environment.
+* Used Bootstrap styling to make base template for website.
+* Added some basic HTML styling to main pages.
 
 ## Todo
-* Styling website.
+* Upload to live server.
